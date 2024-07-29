@@ -1,0 +1,7 @@
+runtime: nodejs16
+instance_class: F1
+
+env_variables:
+  NODE_ENV: production
+  PORT: 8080
+  MONGODB_URI: mongodb+srv://ohmstyle:CEOpassword1234@transport.aljfwlu.mongodb.net/
