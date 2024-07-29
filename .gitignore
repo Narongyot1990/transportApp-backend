@@ -1,3 +1,5 @@
 node_modules/
 .DS_Store
 .env
+myKey.json
+siamrapidtransport-a710657f5611.json
